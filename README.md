@@ -1,2 +1,2 @@
 # HTML
-its literally just HTML
+its literally just HTML and javascript
